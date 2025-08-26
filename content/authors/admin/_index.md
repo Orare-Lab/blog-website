@@ -1,34 +1,34 @@
 ---
 # Display name
-title: 吳健雄
+title: Orare Lab
 
 # Name pronunciation (optional)
-name_pronunciation: Chien Shiung Wu
+name_pronunciation: 
 
 # Full name (for SEO)
-first_name: Shiung Wu
-last_name: Chien
+first_name: Orare
+last_name: orare
 
 # Pronouns (optional)
-pronouns: she/her
+pronouns: 
 
 # Status emoji
 status:
   icon: ☕️
 
 # Is this the primary user of the site?
-superuser: true
+superuser: false
 
 # Role/position/tagline
-role: Professor of Artificial Intelligence
+role: Cryptography Research Lab
 
 # Organizations/Affiliations to show in About widget
 organizations:
-  - name: Stanford University
-    url: https://www.stanford.edu/
+  - name: Shanghai Jiao Tong University
+    url: https://www.sjtu.edu.cn/
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: Research interests of Orare Lab include zero-knowledge proof and blockchain.
 
 # Social Networking
 # Need to use another icon? Simply download the SVG icon to your `assets/media/icons/` folder.
@@ -57,6 +57,4 @@ highlight_name: true
 website: ""
 ---
 
-Chien Shiung Wu is a professor of artificial intelligence at the Stanford AI Lab. Her research interests include
-distributed robotics, mobile computing and programmable matter. She leads the Robotic Neurobiology group, which develops
-self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+Orare Lab is the SJTU Cryptography Lab. Research interests include Zero-knowledge Proof, Cryptographic Hardware Design and Blockchain. The name of Orare Lab comes from the word "Oracle", which is a important "tool" in designing cryptographic schemes and protocols.
